@@ -1,14 +1,14 @@
-// src/app/page.tsx
 export default function Home() {
   return (
     <div>
-      <h1 className="text-3xl font-bold mb-4">Welcome!</h1>
+      <h1 className="text-3xl font-bold mb-4">Spencer Scherger</h1>
       <p>
-        This is the personal website of <strong>Spencer Scherger</strong>, a student of
-        Mathematics and Computer Science at TCU. Use the navigation bar to explore my background,
-        coursework, research projects, goals, and contact info.
+        I am a rising junior at Texas Christian University in Fort Worth, Texas, pursuing a dual degree in Mathematics and Computer Science.
+        Currently, I am on track to graduate at the end of the Spring 2027 semester.
+        I have a passion for pure mathematics and theoretical computer science, and I am excited to start pursuing research in these areas.
+        More specifically, I have drive to learn about subjects such as modern algebra, number theory, machine learning, and complexity theory.
+        In the future, I hope to use my skillset to solve complex problems in any relevant field.
       </p>
     </div>
   );
 }
-
